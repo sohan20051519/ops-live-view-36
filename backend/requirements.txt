@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+psycopg2-binary
+supabase
+redis
+langchain
+langchain-community
+langchain-google-genai
+dagger.io
+celery
